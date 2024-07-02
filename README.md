@@ -4,3 +4,11 @@
 
 *As planilhas podem estar em diferentes áreas de seu computador e para o código funcionar basta trocar para a área desejada no pd.read_excel.
 </p> 
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Jupyter Notebook](https://jupyter.org)
+- [Python](https://www.python.org)
+- [Pandas](https://pandas.pydata.org/docs/)
